@@ -80,6 +80,10 @@ body {
     flex: 1 1 30%;
     margin: 10px;
     text-align: center;
+    background: var(--light-bg-color);
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .feature-item h3, .tool-item h3 {
